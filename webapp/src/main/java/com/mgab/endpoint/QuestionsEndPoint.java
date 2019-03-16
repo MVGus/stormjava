@@ -13,6 +13,6 @@ public class QuestionsEndPoint {
 
     @GetMapping
     public List<String> getQuestions(){
-        return Collections.singletonList("Ok");
+        return Collections.singletonList("Ты пидор");
     }
 }
